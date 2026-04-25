@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+face-recognition
+numpy
+requests
+pandas
+supabase
+openpyxl
